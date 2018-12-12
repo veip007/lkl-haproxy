@@ -13,4 +13,4 @@ Update History
 https://github.com/tcp-nanqinlang/lkl-haproxy/releases
 
 中文文档  
-https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy
+https://github.com/veip007/wiki/blob/master/lkl-haproxy.md
